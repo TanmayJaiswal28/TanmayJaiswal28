@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanmayJaiswal28
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning BlockChain, React , Node, Javascript.
+- 🌱 I’m currently learning BlockChain, React , Node, Javascript,Solana.
 - 💞️ I’m looking to collaborate on @My linkedin profile Tanmay Jaiswal
 - 📫 How to reach me ... Instagram_: Vortex28
 
